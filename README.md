@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=220&section=header&text=Pragnya%20Meharwade&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/pragnyamehar-create">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ISE+3rd+Year+Student+%40+Dayananda+Sagar+College of Engineering;Full+Stack+Web+Developer+in+the+Making;HTML+%7C+CSS+%7C+JS+%7C+Node.js+%7C+Python+%7C+Java;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ISE+3rd+Year+Student+%40+Dayananda+Sagar+CoE;Full+Stack+Web+Developer+in+the+Making;HTML+%7C+CSS+%7C+JS+%7C+Node.js+%7C+Python+%7C+Java;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,9 +30,6 @@ I'm a 3rd year Information Science & Engineering student at Dayananda Sagar Coll
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MACHINE LEARNING-1572B6?style=for-the-badge&logo=machinelearning&logoColor=white" />
-<img src="https://img.shields.io/badge/DEEP LEARNING-E34F26?style=for-the-badge&logo=deep learning&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative AI-F7DFIE?style=for-the-badge&logo=generative ai&logoColor=black" />
 
 <br/><br/>
 
@@ -133,7 +130,24 @@ I'm a 3rd year Information Science & Engineering student at Dayananda Sagar Coll
 
 <br/>
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pragnyamehar-create&show_icons=true&theme=nord&border_color=58A6FF&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnyamehar-create&layout=compact&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=c9d1d9" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=pragnyamehar-create&theme=nord&border=58A6FF&ring=58A6FF&fire=58A6FF" width="80%" />
+
+</div>
+
+## 🏅 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pragnyamehar-create&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+
+</div>
 
 ## 📈 Contribution Activity
 

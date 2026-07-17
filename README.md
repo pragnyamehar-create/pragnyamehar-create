@@ -1,14 +1,4 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=220&section=header&text=Pragnya%20Meharwade&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
-
-<a href="https://github.com/pragnyamehar-create">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ISE+3rd+Year+Student+%40+Dayananda+Sagar+CoE;Building+Full+Stack+Web+Applications;HTML+%7C+CSS+%7C+JS+%7C+Node.js+%7C+Python+%7C+Java;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 

@@ -130,24 +130,7 @@ I'm a 3rd year Information Science & Engineering student at Dayananda Sagar Coll
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pragnyamehar-create&show_icons=true&theme=nord&border_color=58A6FF&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnyamehar-create&layout=compact&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=c9d1d9" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=pragnyamehar-create&theme=nord&border=58A6FF&ring=58A6FF&fire=58A6FF" width="80%" />
-
-</div>
-
-## 🏅 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pragnyamehar-create&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-
-</div>
 
 ## 📈 Contribution Activity
 

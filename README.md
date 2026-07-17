@@ -10,42 +10,34 @@
 
 <br/>
 
-## 👩‍💻 Who I Am
-
-```typescript
-const pragnyaMeharwade = {
-  title: "Aspiring Software Engineer",
-  role: "ISE 3rd Year Student @ Dayananda Sagar College of Engineering",
-  stack: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["Node.js", "Python", "Java"],
-    database: ["MySQL"],
-  },
-  launchedProjects: ["Eventara", "Findora"],
-  certifications: [],
-  status: "Learning & Building Full Stack Projects",
-  openTo: "Collaborations & Internship Opportunities",
-};
-```
-
-<br/>
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-| | |
-|---|---|
-| <a href="https://github.com/pragnyamehar-create/Eventara-College-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pragnyamehar-create&repo=Eventara-College-Management-System&theme=nord&border_color=58A6FF&title_color=58A6FF" /></a> | College Event Management System — streamlines organizing and managing college events end to end. <br/><br/> 🔗 [Live | Code](https://github.com/pragnyamehar-create/Eventara-College-Management-System) |
-| <a href="https://github.com/pragnyamehar-create/Findora-The-Lost-and-Found-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pragnyamehar-create&repo=Findora-The-Lost-and-Found-Management-System&theme=nord&border_color=58A6FF&title_color=58A6FF" /></a> | Lost and Found Management System — helps track and reconnect lost items with their owners. <br/><br/> 🔗 [Live | Code](https://github.com/pragnyamehar-create/Findora-The-Lost-and-Found-Management-System) |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=220&section=header&text=Pragnya%20Meharwade&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
+
+<a href="https://github.com/pragnyamehar-create">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ISE+3rd+Year+Student+%40+Dayananda+Sagar+CoE;Full+Stack+Web+Developer+in+the+Making;HTML+%7C+CSS+%7C+JS+%7C+Node.js+%7C+Python+%7C+Java;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-**Languages & Frontend**
+I'm a 3rd year Information Science & Engineering student at Dayananda Sagar College of Engineering, with a growing passion for **Full Stack Web Development**. I enjoy taking an idea from a blank page to a working application — designing the frontend, wiring up the backend, and structuring the database that holds it all together. I'm currently focused on strengthening my full stack fundamentals through hands-on projects and constantly leveling up my skills.
+
+## 🎯 Strategic Focus
+
+- 🌐 **Full Stack Web Development** — building complete web applications, from responsive UIs to server-side logic.
+- 🗄️ **Database-Driven Systems** — designing relational schemas and integrating them cleanly with backend logic.
+- ⚙️ **Backend Engineering** — writing server-side applications in Node.js, Python, and Java.
+- 🧩 **Practical Project Building** — turning real, everyday problems (like event management and lost & found tracking) into working software.
+
+<br/>
+
+## 💻 Technical Arsenal
+
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
@@ -56,6 +48,32 @@ const pragnyaMeharwade = {
 **Database**
 
 <img src="https://skillicons.dev/icons?i=mysql" />
+
+<br/>
+
+## 🏆 Project Showcase
+
+<details>
+<summary>🎉 <b>Eventara — College Event Management System</b></summary>
+<br/>
+
+- **Description:** A web platform built to simplify how college events are organized and managed.
+- **Impact:** Reduces the manual effort involved in planning, tracking, and coordinating college events, giving organizers a single place to manage everything.
+- **Stack:** Built using web fundamentals with a structured backend and database to handle event data.
+- **Link:** [View Repository](https://github.com/pragnyamehar-create/Eventara-College-Management-System)
+
+</details>
+
+<details>
+<summary>🔍 <b>Findora — The Lost and Found Management System</b></summary>
+<br/>
+
+- **Description:** A management system designed to help reconnect lost items with their rightful owners.
+- **Impact:** Makes reporting and searching for lost items simple and organized, instead of relying on scattered notices.
+- **Stack:** Combines a structured backend with a database to log, search, and match lost and found reports.
+- **Link:** [View Repository](https://github.com/pragnyamehar-create/Findora-The-Lost-and-Found-Management-System)
+
+</details>
 
 <br/>
 
@@ -70,7 +88,7 @@ const pragnyaMeharwade = {
 
 </div>
 
-## 🏆 Trophies
+## 🏅 Trophies
 
 <div align="center">
 
@@ -85,6 +103,15 @@ const pragnyaMeharwade = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragnyamehar-create&theme=react-dark&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
+
+<br/>
+
+## 🌟 Milestones So Far
+
+- 🌐 **Full Stack Foundations:** Building end-to-end web applications, from frontend layouts to backend logic and database design.
+- 🎉 **Real-World Problem Solving:** Developed Eventara to simplify college event management for organizers and attendees.
+- 🔍 **Practical Systems Thinking:** Built Findora to solve the everyday problem of tracking lost and found items.
+- 📚 **Continuous Learner:** Actively strengthening skills across HTML, CSS, JavaScript, Node.js, Python, Java, and MySQL.
 
 <br/>
 
@@ -103,6 +130,13 @@ const pragnyaMeharwade = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=120&section=footer&animation=twinkling" />
+<div align="center">
+
+*"Every big application was once a small idea, built one line of code at a time."*
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=120&section=footer&animation=twinkling" />
+

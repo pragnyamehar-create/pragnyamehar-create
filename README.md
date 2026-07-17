@@ -30,6 +30,11 @@ I'm a 3rd year Information Science & Engineering student at Dayananda Sagar Coll
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c++t&logoColor=white" />
+<img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=black" />
+
+
+
 
 <br/><br/>
 
@@ -37,6 +42,8 @@ I'm a 3rd year Information Science & Engineering student at Dayananda Sagar Coll
 
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT-339933?style=for-the-badge&logo=react&logoColor=white" />
+
 
 <br/><br/>
 
@@ -47,6 +54,16 @@ I'm a 3rd year Information Science & Engineering student at Dayananda Sagar Coll
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+### 🔭 Currently Exploring
+
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-E4405F?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AGENTIC%20AI-6A0DAD?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
 </div>
 
@@ -129,25 +146,6 @@ I'm a 3rd year Information Science & Engineering student at Dayananda Sagar Coll
 </details>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pragnyamehar-create&show_icons=true&theme=nord&border_color=58A6FF&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnyamehar-create&layout=compact&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=c9d1d9" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=pragnyamehar-create&theme=nord&border=58A6FF&ring=58A6FF&fire=58A6FF" width="80%" />
-
-</div>
-
-## 🏅 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pragnyamehar-create&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-
-</div>
 
 ## 📈 Contribution Activity
 
